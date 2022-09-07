@@ -1,0 +1,8 @@
+[submodule "EmptyParcelLocker.API"]
+	path = EmptyParcelLocker.API
+	url = https://github.com/ZRPI-TEAM/EmptyParcelLocker.API
+	branch = master
+[submodule "EmptyParcelLocker.UI"]
+	path = EmptyParcelLocker.UI
+	url = https://github.com/ZRPI-TEAM/EmptyParcelLocker.UI
+	branch = master
